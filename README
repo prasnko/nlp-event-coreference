@@ -1,0 +1,6 @@
+[HOW TO RUN]
+
+#FOR PROPBANK
+Before running the main file, downloading the data of SENNA is necessary for getting the correcrt propbank features.
+The URL to download it is http://ml.nec-labs.com/senna/
+Then put the data folder under the path "nlp-event-coreference/event_detect/"
